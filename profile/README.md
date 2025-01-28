@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 🙋‍♀️ A short introduction - Ink AI is a AI-powered smart ink platform.
+
 🌈 Contribution guidelines - Get involved by shipping features and contributing directly to our repos.
+
 👩‍💻 Useful resources - Docs and information can be found on our Notion. Reach out to the team directly. 
+
 🍿 Fun facts - We eat code for breakfast.
+
 🧙 Welcome to future of handwriting! [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
