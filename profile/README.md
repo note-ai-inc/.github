@@ -8,7 +8,7 @@
 
 🍿 Fun facts - We eat code for breakfast.
 
-🧙 Welcome to future of handwriting! [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Welcome to the future of handwriting!
 
 
 <!--
